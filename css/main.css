@@ -507,4 +507,7 @@ margin-top: 60px;
     flex-direction: column;
     text-align: center;
     }
+    footer .emill{
+      max-width: 100%;
+    }
   }
